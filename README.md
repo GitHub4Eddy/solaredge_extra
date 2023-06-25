@@ -170,7 +170,7 @@ Changes version 0.1 (25th June 2023)
 
 Variables (mandatory and created automatically): 
 - siteID = Site ID of your SolarEdge Inverter (see your Inverter Site Details)
-- apiKey = API key of your SolarEdge Inverter like format 12345678-90 (contact your installer if you don't have one)
+- apiKey = API key of your SolarEdge Inverter (contact your installer if you don't have one)
 - serialNumber = Short serialNumer of your SolarEdge Inverter (see your Inverter Inventory Details)
 - language = Preferred language (default = English (en)) 
 - debugLevel = Number (1=some, 2=few, 3=all, 4=simulation mode) (default = 1)
